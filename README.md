@@ -4,3 +4,5 @@ This example shows usage of (Seeed Studio Grove Ultrasonic Distance Sensor)[http
 
 Libraries used
 - https://github.com/Seeed-Studio/Seeed_Arduino_UltrasonicRanger/releases/tag/v1.0.3
+
+Wio Terminal
